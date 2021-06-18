@@ -40,7 +40,7 @@ Testing
 
 **Maurya Sharma**
 
-**Institution** Delhi University
+**Institution** Delhi University, Shivaji College
 
 **Hobbies**
 1. Reading
