@@ -49,6 +49,7 @@ Testing
 3. painting
 4. reading science
 5. travelling
+6. eating
 
 ## Photo
 ![Anjali pic](https://user-images.githubusercontent.com/85507983/122513701-619ed300-d028-11eb-887e-338b79eed3a2.jpg)
