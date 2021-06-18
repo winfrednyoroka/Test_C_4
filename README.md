@@ -14,6 +14,15 @@ Testing
 5. Samson
 7. Caleb
 8. Shan
+9. Ojei
+10. Israel
+
+## Assignment 
+1. Name: Onyijen Ojei
+2. Institution: Samuel Adegboyega University, Ogwa, Edo State 
+3. Hobbies: Reading, Chess, Scrabble, Movies, Watching football
+4. ![alt text](http://url/to/images/IMG-20210505-WA0002.jpg)
+
 
 **Winfred Gatua**
 
