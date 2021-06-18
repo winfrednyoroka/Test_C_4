@@ -17,7 +17,7 @@ Testing
 1. Name: Onyijen Ojei
 2. Institution: Samuel Adegboyega University, Ogwa, Edo State 
 3. Hobbies: Reading, Chess, Scrabble, Movies, Watching football
-4. ![GitHub Logo](/images/IMG-20210505-WA0002.jpg)
+4. ![alt text](http://url/to/images/IMG-20210505-WA0002.jpg)
 
 
 
