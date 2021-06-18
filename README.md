@@ -13,4 +13,11 @@ Testing
 9. Ojei
 10. Israel
 
+## Assignment 
+1. Name: Onyijen Ojei
+2. Institution: Samuel Adegboyega University, Ogwa, Edo State 
+3. Hobbies: Reading, Chess, Scrabble, Movies, Watching football
+ 
+
+
 
