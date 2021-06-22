@@ -24,6 +24,22 @@ Testing
 3. Hobbies: Reading, Chess, Scrabble, Movies, Watching football
 4. ![alt text](http://url/to/images/IMG-20210505-WA0002.jpg)
 
+## Solution to Assignment 
+
+**Aanuoluwa Adekoya**
+
+**Institution:** Department of Microbiology 
+
+**Hobbies**
+1. Reading journals on women reproductive health
+2. Watching documentaries
+3. Dancing 
+4. Learning new things
+5. Listening to country music
+
+**Photo**
+![Aanuoluwa](https://drive.google.com/file/d/1QlzYzJRk5lPiR9a4QW7TEMWt9d17bBJE/view?usp=sharing)
+
 **Winfred Gatua**
 
 **Institution:** International Centre for Insect Physiology and Ecology
@@ -54,9 +70,6 @@ Testing
 
 ## Photo
 ![Anjali pic](https://user-images.githubusercontent.com/85507983/122513701-619ed300-d028-11eb-887e-338b79eed3a2.jpg)
-
-
-
 
 
 **Maurya Sharma**
